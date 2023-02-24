@@ -28,6 +28,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-vercel": "^2.1.1",
 		"date-fns": "^2.29.3",
 		"google-maps": "^4.3.3",
 		"pnpm": "^7.27.1"
