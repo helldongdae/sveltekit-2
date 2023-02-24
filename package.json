@@ -29,6 +29,7 @@
 	"type": "module",
 	"dependencies": {
 		"date-fns": "^2.29.3",
-		"google-maps": "^4.3.3"
+		"google-maps": "^4.3.3",
+		"pnpm": "^7.27.1"
 	}
 }
